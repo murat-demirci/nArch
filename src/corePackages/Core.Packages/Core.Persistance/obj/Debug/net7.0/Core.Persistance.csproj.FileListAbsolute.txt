@@ -1,0 +1,12 @@
+C:\Users\demur\Desktop\nArchitectureDemo\src\corePackages\Core.Packages\Core.Persistance\bin\Debug\net7.0\Core.Persistance.deps.json
+C:\Users\demur\Desktop\nArchitectureDemo\src\corePackages\Core.Packages\Core.Persistance\bin\Debug\net7.0\Core.Persistance.dll
+C:\Users\demur\Desktop\nArchitectureDemo\src\corePackages\Core.Packages\Core.Persistance\bin\Debug\net7.0\Core.Persistance.pdb
+C:\Users\demur\Desktop\nArchitectureDemo\src\corePackages\Core.Packages\Core.Persistance\obj\Debug\net7.0\Core.Persistance.csproj.AssemblyReference.cache
+C:\Users\demur\Desktop\nArchitectureDemo\src\corePackages\Core.Packages\Core.Persistance\obj\Debug\net7.0\Core.Persistance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\demur\Desktop\nArchitectureDemo\src\corePackages\Core.Packages\Core.Persistance\obj\Debug\net7.0\Core.Persistance.AssemblyInfoInputs.cache
+C:\Users\demur\Desktop\nArchitectureDemo\src\corePackages\Core.Packages\Core.Persistance\obj\Debug\net7.0\Core.Persistance.AssemblyInfo.cs
+C:\Users\demur\Desktop\nArchitectureDemo\src\corePackages\Core.Packages\Core.Persistance\obj\Debug\net7.0\Core.Persistance.csproj.CoreCompileInputs.cache
+C:\Users\demur\Desktop\nArchitectureDemo\src\corePackages\Core.Packages\Core.Persistance\obj\Debug\net7.0\Core.Persistance.dll
+C:\Users\demur\Desktop\nArchitectureDemo\src\corePackages\Core.Packages\Core.Persistance\obj\Debug\net7.0\refint\Core.Persistance.dll
+C:\Users\demur\Desktop\nArchitectureDemo\src\corePackages\Core.Packages\Core.Persistance\obj\Debug\net7.0\Core.Persistance.pdb
+C:\Users\demur\Desktop\nArchitectureDemo\src\corePackages\Core.Packages\Core.Persistance\obj\Debug\net7.0\ref\Core.Persistance.dll

@@ -1,0 +1,15 @@
+C:\Users\demur\Desktop\nArchitectureDemo\src\rentACar\RentACar\Domain\bin\Debug\net7.0\Domain.deps.json
+C:\Users\demur\Desktop\nArchitectureDemo\src\rentACar\RentACar\Domain\bin\Debug\net7.0\Domain.dll
+C:\Users\demur\Desktop\nArchitectureDemo\src\rentACar\RentACar\Domain\bin\Debug\net7.0\Domain.pdb
+C:\Users\demur\Desktop\nArchitectureDemo\src\rentACar\RentACar\Domain\bin\Debug\net7.0\Core.Persistance.dll
+C:\Users\demur\Desktop\nArchitectureDemo\src\rentACar\RentACar\Domain\bin\Debug\net7.0\Core.Persistance.pdb
+C:\Users\demur\Desktop\nArchitectureDemo\src\rentACar\RentACar\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+C:\Users\demur\Desktop\nArchitectureDemo\src\rentACar\RentACar\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\demur\Desktop\nArchitectureDemo\src\rentACar\RentACar\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+C:\Users\demur\Desktop\nArchitectureDemo\src\rentACar\RentACar\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+C:\Users\demur\Desktop\nArchitectureDemo\src\rentACar\RentACar\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\demur\Desktop\nArchitectureDemo\src\rentACar\RentACar\Domain\obj\Debug\net7.0\Domain.csproj.CopyComplete
+C:\Users\demur\Desktop\nArchitectureDemo\src\rentACar\RentACar\Domain\obj\Debug\net7.0\Domain.dll
+C:\Users\demur\Desktop\nArchitectureDemo\src\rentACar\RentACar\Domain\obj\Debug\net7.0\refint\Domain.dll
+C:\Users\demur\Desktop\nArchitectureDemo\src\rentACar\RentACar\Domain\obj\Debug\net7.0\Domain.pdb
+C:\Users\demur\Desktop\nArchitectureDemo\src\rentACar\RentACar\Domain\obj\Debug\net7.0\ref\Domain.dll
